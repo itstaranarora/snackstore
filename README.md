@@ -4,7 +4,9 @@ Snackstore is a food-ordering application it has all the functionalities which a
 
 ![IMG](./screenshot.png)
 
-Check out the live demo: https://movietrova.netlify.app/
+Check out the live demo: https://snackstore-react.web.app/
+
+This app is build using React, Context API and Firebase Authentication Service.
 
 ## How to run the project?
 
