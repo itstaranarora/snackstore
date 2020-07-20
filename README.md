@@ -15,4 +15,9 @@ This app is build using React, Context API and Firebase Authentication Service.
 3. Go to your browser and type `http://127.0.0.1:3000/` in the address bar.
 4. Hurray! That's it.
 
+### ToDo
+
+- [ ] - Add Strip as a payment gateway.
+- [ ] - Add a Backend System to Manage Data.
+
 **Note - You need your own firebase configuration file in order to run this app locally**
