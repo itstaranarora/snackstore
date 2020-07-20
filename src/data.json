@@ -1,0 +1,143 @@
+[
+  {
+    "title": "New Food on Snack Store",
+    "data": [
+      {
+        "id": 1,
+        "title": "Fried Chicken",
+        "category": "Middle Eastern | Non-Vegetarian | Dish",
+        "img": "https://source.unsplash.com/P_z_xlMGuEk",
+        "price": 299
+      },
+      {
+        "id": 2,
+        "title": "German Kebab",
+        "category": "German | Non-Vegetarian | Taco",
+        "img": "https://www.thespruceeats.com/thmb/hJ9Gpqv155nC2U31peBrIA2F04E=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/moroccan-chicken-or-turkey-kebabs-brochettes-2394642-hero-01-5c9292f7c9e77c00010a5ce5.jpg",
+        "price": 499
+      },
+      {
+        "id": 3,
+        "title": "Corn Pizza",
+        "category": "Italian | Vegetarian | Meal",
+        "img": "https://source.unsplash.com/x00CzBt4Dfk",
+        "price": 149
+      },
+      {
+        "id": 4,
+        "title": "French Toast",
+        "category": "French | Vegetarian | Bread",
+        "img": "https://source.unsplash.com/Yr4n8O_3UPc",
+        "price": 99
+      },
+      {
+        "id": 5,
+        "title": "Chicken Soup",
+        "category": "Middle Eastern | Non-Vegetarian | Dish",
+        "img": "https://source.unsplash.com/lp1pFuUolRI",
+        "price": 89
+      },
+      {
+        "id": 6,
+        "title": "Hotcakes",
+        "category": "England | Vegetarian | Cake",
+        "img": "https://source.unsplash.com/SxTlB4fde9Q",
+        "price": 59
+      }
+    ]
+  },
+  {
+    "title": "Populer Food on Snack Store",
+    "data": [
+      {
+        "id": 7,
+        "title": "Hakka Noodles",
+        "category": "Chinese | Vegetarian | Fast Food",
+        "img": "https://source.unsplash.com/v2z6Yhp_6Gc",
+        "price": 99
+      },
+      {
+        "id": 8,
+        "title": "Cheese Burger",
+        "category": "Chinese | Vegetarian | Fast Food",
+        "img": "https://source.unsplash.com/xUtkfr-qBFU",
+        "price": 59
+      },
+      {
+        "id": 5,
+        "title": "Chicken Soup",
+        "category": "Middle Eastern | Non-Vegetarian | Dish",
+        "img": "https://source.unsplash.com/lp1pFuUolRI",
+        "price": 89
+      },
+      {
+        "id": 1,
+        "title": "Fried Chicken",
+        "category": "Middle Eastern | Non-Vegetarian | Dish",
+        "img": "https://source.unsplash.com/P_z_xlMGuEk",
+        "price": 299
+      },
+      {
+        "id": 6,
+        "title": "Hotcakes",
+        "category": "England | Vegetarian | Cake",
+        "img": "https://source.unsplash.com/SxTlB4fde9Q",
+        "price": 59
+      },
+      {
+        "id": 4,
+        "title": "French Toast",
+        "category": "French | Vegetarian | Bread",
+        "img": "https://source.unsplash.com/Yr4n8O_3UPc",
+        "price": 99
+      }
+    ]
+  },
+  {
+    "title": "Snack Store Special's",
+    "data": [
+      {
+        "id": 3,
+        "title": "Corn Pizza",
+        "category": "Italian | Vegetarian | Meal",
+        "img": "https://source.unsplash.com/x00CzBt4Dfk",
+        "price": 149
+      },
+      {
+        "id": 1,
+        "title": "Fried Chicken",
+        "category": "Middle Eastern | Non-Vegetarian | Dish",
+        "img": "https://source.unsplash.com/P_z_xlMGuEk",
+        "price": 299
+      },
+      {
+        "id": 2,
+        "title": "German Kebab",
+        "category": "German | Non-Vegetarian | Taco",
+        "img": "https://www.thespruceeats.com/thmb/hJ9Gpqv155nC2U31peBrIA2F04E=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/moroccan-chicken-or-turkey-kebabs-brochettes-2394642-hero-01-5c9292f7c9e77c00010a5ce5.jpg",
+        "price": 499
+      },
+      {
+        "id": 4,
+        "title": "French Toast",
+        "category": "French | Vegetarian | Bread",
+        "img": "https://source.unsplash.com/Yr4n8O_3UPc",
+        "price": 99
+      },
+      {
+        "id": 6,
+        "title": "Hotcakes",
+        "category": "England | Vegetarian | Cake",
+        "img": "https://source.unsplash.com/SxTlB4fde9Q",
+        "price": 59
+      },
+      {
+        "id": 5,
+        "title": "Chicken Soup",
+        "category": "Middle Eastern | Non-Vegetarian | Dish",
+        "img": "https://source.unsplash.com/lp1pFuUolRI",
+        "price": 89
+      }
+    ]
+  }
+]

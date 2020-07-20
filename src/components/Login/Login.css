@@ -1,0 +1,85 @@
+.login {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 80vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.login__logo {
+  display: flex;
+  font-size: 2.5rem;
+  text-decoration: none;
+}
+
+.login__logoFirst {
+  font-weight: 400;
+  color: black;
+}
+
+.login__logoSecond {
+  font-weight: 900;
+  color: #5eb712;
+}
+
+.login__container {
+  display: flex;
+  width: 500px;
+  flex-direction: column;
+}
+
+.login__container > h3 {
+  font-size: 2rem;
+  font-weight: 400;
+  overflow: hidden;
+  margin-top: 3rem;
+}
+
+.login__container > p {
+  font-size: 1rem;
+  font-weight: 400;
+  margin-top: 0.5rem;
+}
+
+.login__form {
+  margin: 1rem 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.login__form > input {
+  font-size: 1rem;
+  padding: 1rem;
+  margin: 0.5rem 0;
+  border: 1px solid #e0e0e0;
+}
+
+.login__buttonOptions {
+  display: flex;
+  margin-top: 1rem;
+}
+
+.login__buttonOptions > button {
+  width: 50%;
+  border: none;
+  padding: 1rem;
+  font-size: 1rem;
+}
+
+.login__Signin {
+  margin-right: 0.5rem;
+  background-color: #5eb712;
+}
+.login__Signup {
+  margin-left: 0.5rem;
+  background-color: black;
+  color: white;
+}
+
+@media (max-width: 720px) {
+  .login__container {
+    width: 80%;
+    margin: 0 auto;
+  }
+}

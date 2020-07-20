@@ -1,0 +1,31 @@
+.listingsGrid {
+  padding: 2rem 5rem;
+}
+
+.listingsGrid__grid {
+  display: flex;
+  overflow: hidden;
+  overflow-x: scroll;
+  scroll-snap-type: x mandatory;
+}
+
+.listingsGrid__col {
+  display: flex;
+  margin-left: 20px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: 100%;
+  scroll-snap-align: start;
+}
+
+.listingsGrid__grid::-webkit-scrollbar {
+  display: none;
+}
+
+@media (max-width: 720px) {
+  .listingsGrid {
+    padding: 1.2rem 1.5rem;
+  }
+}
