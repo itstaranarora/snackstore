@@ -24,7 +24,7 @@
 }
 
 .card__textTitle > h3 {
-  font-weight: 400;
+  font-weight: 500;
   font-size: 1.3rem;
   margin-top: 0;
   margin-bottom: 0.3rem;
@@ -32,7 +32,7 @@
 
 .card__info > span {
   font-size: 0.9rem;
-  font-weight: 300;
+  font-weight: 400;
   color: black;
 }
 
@@ -54,7 +54,7 @@
 
 .card__textLower > span {
   font-size: 0.8rem;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 .card__textLower {
