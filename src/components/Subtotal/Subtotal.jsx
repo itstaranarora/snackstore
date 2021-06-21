@@ -32,7 +32,10 @@ function Subtotal() {
         <h4>Total</h4>
         <h4>{"₹" + totalAmount.toFixed(2)}</h4>
       </div>
-      <button className="subtotal__button">Approve and pay</button>
+      <form></form>
+      <a href="https://paytm.me/W-nxXjB" className="subtotal__button">
+        Approve and pay
+      </a>
     </div>
   );
 }

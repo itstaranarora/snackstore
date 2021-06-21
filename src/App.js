@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import "./App.css";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import { Header, Home, Login, Checkout } from "./components";
-import auth from "./firebase";
+import { auth } from "./firebase";
 import { useStateValue } from "./StateProvider";
 
 function App() {

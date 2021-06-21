@@ -31,7 +31,7 @@ function Home() {
         </div>
         <div className="home__footerleft">
           <span>
-            Built with <FavoriteIcon /> by Taran Arora
+            Built with <FavoriteIcon /> by Sahil
           </span>
         </div>
       </div>
